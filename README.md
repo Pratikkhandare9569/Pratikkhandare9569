@@ -1,6 +1,6 @@
 # Hi, I'm Pratik Khandare 👋  
 
-💻 **Full-Stack Developer** | 🌐 **.NET | Angular | SQL** | 🤖 **AI Enthusiast**  
+💻 **Full-Stack Developer** | 🌐 **.NET | Angular | PHP | SQL** | 🤖 **AI Enthusiast**  
 
 I’m passionate about building scalable applications and integrating AI into real-world solutions.  
 Currently working on **enterprise projects** and crafting side-projects to sharpen my system design and full-stack skills.  
@@ -9,7 +9,7 @@ Currently working on **enterprise projects** and crafting side-projects to sharp
 
 ## 🚀 About Me
 - 🔭 I’m currently working as a **Software Developer @ Xperate**
-- 🌱 Learning **System Design, Vanilla JS, and .NET Core Clean Architecture**
+- 🌱 Learning **System Design, Vanilla JS, React, and .NET Core Clean Architecture**
 - 🎯 Goal: Transition into a **top product-based company (FAANG level)**  
 - 💡 I enjoy solving problems, building side-projects, and mentoring myself for consistency & discipline  
 
@@ -17,13 +17,14 @@ Currently working on **enterprise projects** and crafting side-projects to sharp
 
 ## 🛠 Tech Stack
 **Languages & Frameworks**  
-- C#, .NET Core, Entity Framework  
-- Angular, JavaScript (ES6+), TypeScript  
+- C#, .NET Core,Entity Framework, php, laravel, 
+- Angular, React, JavaScript (ES6+), TypeScript  
 - SQL Server, LINQ  
 
 **Tools & Platforms**  
 - Git, GitHub, VS Code, Visual Studio  
-- Docker (basics), Postman, SSMS  
+- Docker (basics), Postman, SSMS
+- Azure
 - OpenAI API, LLM Integrations  
 
 ---
