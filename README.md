@@ -43,8 +43,8 @@ Currently working on **enterprise projects** and crafting side-projects to sharp
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [Email](mailto:yourmail@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/pratik-khandare-72b263232/)  
+- [Email](mailto:pmkhandare312@gmail.com)  
 - [GitHub](https://github.com/Pratikkhandare9569)  
 
 ---
