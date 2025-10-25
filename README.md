@@ -2,8 +2,7 @@
 
 💻 **Full-Stack Developer** | 🌐 **.NET | Angular | PHP | SQL** | 🤖 **AI Enthusiast**  
 
-I’m passionate about building scalable applications and integrating AI into real-world solutions.  
-Currently working on **enterprise projects** and crafting side-projects to sharpen my system design and full-stack skills.  
+Full-stack Software Developer with 1+ year of hands-on experience in Laravel and Ember.js, and growing expertise in ASP.NET Core and Angular through self-driven projects. Adept at building scalable, maintainable systems using Clean Architecture, SOLID principles, and modern CI/CD practices with Azure DevOps.
 
 ---
 
